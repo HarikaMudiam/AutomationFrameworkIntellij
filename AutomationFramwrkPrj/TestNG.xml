@@ -1,0 +1,8 @@
+<suite name="AutomationFramwrkPrj">
+	<test name="testngTest">
+		<parameter name="browser" value="firefox" />
+			<classes>
+				<class name="com.drivers.BrowserFactory" />
+			</classes>
+		</test>
+	</suite>
